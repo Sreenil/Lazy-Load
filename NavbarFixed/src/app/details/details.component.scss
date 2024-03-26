@@ -1,0 +1,23 @@
+div
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+
+    h2
+    {
+        margin: 30px;
+        font-size: 30px;
+
+    }
+    p
+    {
+        margin: 30px;
+        font-size: 25px;
+        font-weight: 550;
+        color: rgb(48, 48, 48);
+
+    }
+}
